@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maazin2007&label=Profile%20views&color=0e75b6&style=flat" alt="maazin2007" /> </p>
 
+<img src="https://github.com/Maazin2007.png" width="150" alt="Maazin2007" />
+
 - 🔭 I’m currently working on [Marta](https://github.com/Maazin2007/marta)
 
 - 🌱 I’m currently learning **Java and SpringBoot**
