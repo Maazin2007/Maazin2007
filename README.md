@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maazin Osama Khattak</h1>
 <h3 align="center">I am an aspiring backend engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maazin2007&label=Profile%20views&color=0e75b6&style=flat" alt="maazin2007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maazin2007&label=Profile%20views&color=0e75b6&style=flat" alt="maazin2007" /> </p>
 
 - 🔭 I’m currently working on [Marta](https://github.com/Maazin2007/marta)
 
