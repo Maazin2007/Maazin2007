@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I'm currently working on [Marta](https://github.com/Maazin2007/marta) as Lead Developer and Co-author for a Dental Research Team 
+- 🔭 I'm currently working on [Marta](https://github.com/Maazin2007/marta) as Lead Developer and co-author for a Dental Research Team 
 
 - 🌱 I'm currently learning **Java and SpringBoot**
 
