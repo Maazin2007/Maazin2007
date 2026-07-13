@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maazin2007&label=Profile%20views&color=0e75b6&style=flat" alt="maazin2007" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maazin2007" alt="maazin2007" /></a> </p>
+
 - 🔭 I’m currently working on [Marta](https://github.com/Maazin2007/marta)
 
 - 🌱 I’m currently learning **Java and SpringBoot**
